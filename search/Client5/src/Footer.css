@@ -1,0 +1,192 @@
+.footer {
+  padding: 0rem 8rem;
+  line-height: 0.5;
+  background-color: black;
+}
+
+.footer .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width: 99.6rem;
+  margin: 7rem auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer .col {
+  margin-top: 1rem;
+  flex-direction: column;
+  color: var(--orange);
+  align-items: flex-start;
+}
+
+.footer .col:last-child {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer .col:last-child span {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  color: var(--black);
+}
+
+.footer .col a {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 2;
+  padding: 0.8rem;
+  font-weight: 300;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-bottom: 20px;
+  color: #fff;
+  font-weight: 400;
+  transition: color 0.3s ease;
+}
+h5{
+  color: #fff;
+  font-weight: 400;
+  transition: color 0.3s ease;
+  font-size: 1rem;
+}
+
+
+
+.footer .col h3 {
+  margin-bottom: 1rem;
+  line-height: 1;
+  color: #a68e06;
+}
+.footer .opinion h3{
+
+  color: #a68e06;
+}
+.footer .opinion {
+  margin-top: 1.1rem;
+  margin-left: 100px;
+}
+
+.cold-flex {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 20px;
+  flex-direction: column;
+}
+
+textarea {
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+label[for="comment"] {
+  color: white;
+}
+
+.footer button {
+  background-color: var(--orange);
+  border: none;
+  color: rgb(255, 249, 249);
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 21px;
+  box-shadow: 2px 2px 2px 4px rgba(15, 15, 15, 0.26);
+  transition: 0.3s;
+}
+
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+  margin-left: -1000px;
+  margin-top: -40px;
+}
+
+.icon-list {
+  list-style: none;
+  padding: 4;
+  margin: 6;
+  color: #9BBEC8;
+  border: #9BBEC8;
+}
+
+.icon-list li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 0.5rem;
+}
+
+.icon-list li:last-child {
+  margin-right: 0;
+}
+
+.icon-list li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #333;
+  color: #a68e06;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+
+.icon-list li a:hover {
+  transform: translateY(-5px);
+}
+
+/* Responsive for the footer */
+@media only screen and (max-width: 567px) {
+  .footer .row {
+    grid-template-columns: 1fr;
+    row-gap: 3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .icon-list {
+    flex-wrap: wrap;
+  }
+
+  .icon-list li {
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+  /* Align icons to left on smaller screens */
+  .icon-wrapper {
+    justify-content: flex-start;
+  }
+
+  .footer {
+    padding: 10px;
+  }
+
+  .opinion button {
+    margin-bottom: 10px;
+    padding: 7px;
+  }
+}
+/* Ajoutez ces styles à votre fichier CSS existant ou créez un nouveau fichier CSS */
+
+ .opinion p{
+  font-size: 16px; /* Taille de la police */
+  line-height: 2; /* Hauteur de ligne */
+  color: #fff; /* Couleur du texte */
+  margin-bottom: 25px; /* Marge en bas pour l'espacement avec les éléments suivants */
+}
+ p{
+  font-size: 16px; /* Taille de la police */
+  line-height: 0.5; /* Hauteur de ligne */
+  color: #fff; /* Couleur du texte */
+  margin-bottom: 20px;
+}

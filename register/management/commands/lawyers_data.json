@@ -1,0 +1,483 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "password": "securepassword",
+        "phone_number": "0567890123",
+        "speciality": "Criminal Law",
+        "location": "City A",
+        "description": "Experienced criminal defense lawyer."
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "password": "strongpassword",
+        "phone_number": "0712345678",
+        "speciality": "Family Law",
+        "location": "City B",
+        "description": "Dedicated family law attorney."
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "michael.brown@example.com",
+        "password": "mypass123",
+        "phone_number": "0754321098",
+        "speciality": "Corporate Law",
+        "location": "City C",
+        "description": "Corporate lawyer with a focus on mergers and acquisitions."
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "email": "emily.jones@example.com",
+        "password": "password456",
+        "phone_number": "0678901234",
+        "speciality": "Immigration Law",
+        "location": "City D",
+        "description": "Passionate about helping clients navigate immigration challenges."
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Miller",
+        "email": "daniel.miller@example.com",
+        "password": "securepass321",
+        "phone_number": "0701234567",
+        "speciality": "Environmental Law",
+        "location": "City E",
+        "description": "Advocate for environmental protection and sustainable practices."
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Wilson",
+        "email": "olivia.wilson@example.com",
+        "password": "myp@ssword",
+        "phone_number": "0587654321",
+        "speciality": "Personal Injury Law",
+        "location": "City F",
+        "description": "Helping clients receive fair compensation for personal injuries."
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Davis",
+        "email": "matthew.davis@example.com",
+        "password": "pass123word",
+        "phone_number": "0765432109",
+        "speciality": "Real Estate Law",
+        "location": "City G",
+        "description": "Experienced in residential and commercial real estate transactions."
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Taylor",
+        "email": "sophia.taylor@example.com",
+        "password": "taylorpass",
+        "phone_number": "0732109876",
+        "speciality": "Intellectual Property Law",
+        "location": "City H",
+        "description": "Protecting and managing intellectual property rights for clients."
+    },
+    {
+        "first_name": "Liam",
+        "last_name": "Anderson",
+        "email": "liam.anderson@example.com",
+        "password": "andersonpass",
+        "phone_number": "0698765432",
+        "speciality": "Bankruptcy Law",
+        "location": "City I",
+        "description": "Assisting individuals and businesses in financial distress."
+    },
+    {
+        "first_name": "Ava",
+        "last_name": "Moore",
+        "email": "ava.moore@example.com",
+        "password": "moorepass",
+        "phone_number": "0723456789",
+        "speciality": "Healthcare Law",
+        "location": "City J",
+        "description": "Navigating legal issues in the healthcare industry."
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Clark",
+        "email": "ethan.clark@example.com",
+        "password": "clarkpass",
+        "phone_number": "0689012345",
+        "speciality": "Employment Law",
+        "location": "City K",
+        "description": "Advocating for employee rights and fair workplace practices."
+    },
+    {
+        "first_name": "Isabella",
+        "last_name": "Hill",
+        "email": "isabella.hill@example.com",
+        "password": "hillpass",
+        "phone_number": "0745678901",
+        "speciality": "Civil Rights Law",
+        "location": "City L",
+        "description": "Committed to protecting civil rights and fighting discrimination."
+    },
+    {
+        "first_name": "Mason",
+        "last_name": "Baker",
+        "email": "mason.baker@example.com",
+        "password": "bakerpass",
+        "phone_number": "0654321098",
+        "speciality": "Tax Law",
+        "location": "City M",
+        "description": "Expertise in tax planning and dispute resolution."
+    },
+    {
+        "first_name": "Ella",
+        "last_name": "Ward",
+        "email": "ella.ward@example.com",
+        "password": "wardpass",
+        "phone_number": "0712345678",
+        "speciality": "International Law",
+        "location": "City N",
+        "description": "Navigating complex legal issues in the international arena."
+    },
+    {
+        "first_name": "Carter",
+        "last_name": "Fisher",
+        "email": "carter.fisher@example.com",
+        "password": "fisherpass",
+        "phone_number": "0690123456",
+        "speciality": "Technology Law",
+        "location": "City O",
+        "description": "Advising clients on legal matters in the rapidly evolving tech industry."
+    },
+    {
+        "first_name": "Aria",
+        "last_name": "Evans",
+        "email": "aria.evans@example.com",
+        "password": "evanspass",
+        "phone_number": "0756789012",
+        "speciality": "Education Law",
+        "location": "City P",
+        "description": "Advocating for students, educators, and educational institutions."
+    },
+    {
+        "first_name": "Logan",
+        "last_name": "Turner",
+        "email": "logan.turner@example.com",
+        "password": "turnerpass",
+        "phone_number": "0678901234",
+        "speciality": "Entertainment Law",
+        "location": "City Q",
+        "description": "Handling legal matters in the entertainment and media industries."
+    },
+    {
+        "first_name": "Nadia",
+        "last_name": "Bouzid",
+        "email": "nadia.bouzid@example.com",
+        "password": "securepassword",
+        "phone_number": "0567890123",
+        "speciality": "Criminal Law",
+        "location": "123 Rue des Oliviers, Apartment 5B, Kouba, Alger",
+        "description": "Experienced criminal defense lawyer located at 123 Rue des Oliviers, Apartment 5B, Kouba, Alger."
+    },
+    {
+        "first_name": "Karim",
+        "last_name": "Tizi",
+        "email": "karim.tizi@example.com",
+        "password": "strongpassword",
+        "phone_number": "0712345678",
+        "speciality": "Family Law",
+        "location": "456 Avenue des Palmiers, Unit 8, Bir El Djir, Oran",
+        "description": "Dedicated family law attorney at 456 Avenue des Palmiers, Unit 8, Bir El Djir, Oran."
+    },
+    {
+        "first_name": "Sofia",
+        "last_name": "Bensaad",
+        "email": "sofia.bensaad@example.com",
+        "password": "securepassword",
+        "phone_number": "0567890123",
+        "speciality": "Criminal Law",
+        "location": "123 Rue des Oliviers, Apartment 5B, Kouba, Alger",
+        "description": "Experienced criminal defense lawyer located at 123 Rue des Oliviers, Apartment 5B, Kouba, Alger."
+    },
+    {
+        "first_name": "Amir",
+        "last_name": "Tizi",
+        "email": "amir.tizi@example.com",
+        "password": "strongpassword",
+        "phone_number": "0712345678",
+        "speciality": "Family Law",
+        "location": "456 Avenue des Palmiers, Unit 8, Bir El Djir, Oran",
+        "description": "Dedicated family law attorney at 456 Avenue des Palmiers, Unit 8, Bir El Djir, Oran."
+    },
+    {
+        "first_name": "Amina",
+        "last_name": "Belouad",
+        "email": "amina.belouad@example.com",
+        "password": "securepass123",
+        "phone_number": "0765432109",
+        "speciality": "Corporate Law",
+        "location": "789 Boulevard Mohamed Seghir, Office 12A, Didouche Mourad, Constantine",
+        "description": "Corporate lawyer with expertise at 789 Boulevard Mohamed Seghir, Office 12A, Didouche Mourad, Constantine."
+    },
+    {
+        "first_name": "Youssef",
+        "last_name": "Zenati",
+        "email": "youssef.zenati@example.com",
+        "password": "zenatipass",
+        "phone_number": "0732109876",
+        "speciality": "Immigration Law",
+        "location": "1011 Avenue de l'Indépendance, Zenata, Tlemcen",
+        "description": "Passionate about helping clients with immigration matters at 1011 Avenue de l'Indépendance, Zenata, Tlemcen."}
+        ,
+            {
+                "first_name": "Nadia",
+                "last_name": "Bouzid",
+                "email": "nadia.bouzid@example.com",
+                "password": "securepassword",
+                "phone_number": "0567890123",
+                "speciality": "Criminal Law",
+                "location": "123 Rue des Oliviers, Apartment 5B, Kouba, Alger",
+                "description": "Experienced criminal defense lawyer located at 123 Rue des Oliviers, Apartment 5B, Kouba, Alger."
+            },
+            {
+                "first_name": "Ahmed",
+                "last_name": "Hassani",
+                "email": "ahmed.hassani@example.com",
+                "password": "strongpass123",
+                "phone_number": "0556789012",
+                "speciality": "Family Law",
+                "location": "456 Avenue des Jasmins, Apartment 3C, El Harrach, Algiers",
+                "description": "Dedicated family law attorney located at 456 Avenue des Jasmins, Apartment 3C, El Harrach, Algiers."
+            },
+            {
+                "first_name": "Sara",
+                "last_name": "Djoudi",
+                "email": "sara.djoudi@example.com",
+                "password": "safeandsecure",
+                "phone_number": "0545678901",
+                "speciality": "Immigration Law",
+                "location": "789 Rue des Palmiers, Villa 2A, Birkhadem, Algiers",
+                "description": "Passionate immigration lawyer situated at 789 Rue des Palmiers, Villa 2A, Birkhadem, Algiers."
+            },
+            {
+                "first_name": "Rachid",
+                "last_name": "Mokrani",
+                "email": "rachid.mokrani@example.com",
+                "password": "protectivepass",
+                "phone_number": "0551234567",
+                "speciality": "Corporate Law",
+                "location": "1010 Boulevard des Chênes, Office 7D, Hydra, Algiers",
+                "description": "Experienced corporate attorney based at 1010 Boulevard des Chênes, Office 7D, Hydra, Algiers."
+            },
+            {
+                "first_name": "Lina",
+                "last_name": "Belkacem",
+                "email": "lina.belkacem@example.com",
+                "password": "securedigital",
+                "phone_number": "0562345678",
+                "speciality": "Intellectual Property Law",
+                "location": "222 Rue des Orangers, Suite 4E, Kouba, Algiers",
+                "description": "Skilled intellectual property lawyer situated at 222 Rue des Orangers, Suite 4E, Kouba, Algiers."
+            },
+            {
+                "first_name": "Karim",
+                "last_name": "Benhamou",
+                "email": "karim.benhamou@example.com",
+                "password": "lawprotect",
+                "phone_number": "0543210987",
+                "speciality": "Real Estate Law",
+                "location": "333 Avenue des Roses, Apartment 6F, Cheraga, Algiers",
+                "description": "Knowledgeable real estate attorney serving at 333 Avenue des Roses, Apartment 6F, Cheraga, Algiers."
+            },
+            {
+                "first_name": "Nour",
+                "last_name": "Ait-Mansour",
+                "email": "nour.aitmansour@example.com",
+                "password": "secureclient",
+                "phone_number": "0556789123",
+                "speciality": "Employment Law",
+                "location": "444 Rue des Tilleuls, Office 2B, Bab El Oued, Algiers",
+                "description": "Experienced employment lawyer located at 444 Rue des Tilleuls, Office 2B, Bab El Oued, Algiers."
+            },
+            {
+                "first_name": "Amira",
+                "last_name": "Taleb",
+                "email": "amira.taleb@example.com",
+                "password": "jobsecurity",
+                "phone_number": "0567891234",
+                "speciality": "Bankruptcy Law",
+                "location": "555 Boulevard des Cerisiers, Suite 8C, El Madania, Algiers",
+                "description": "Dedicated bankruptcy attorney situated at 555 Boulevard des Cerisiers, Suite 8C, El Madania, Algiers."
+            },
+            {
+                "first_name": "Youssef",
+                "last_name": "Kadri",
+                "email": "youssef.kadri@example.com",
+                "password": "financialguard",
+                "phone_number": "0545678912",
+                "speciality": "Tax Law",
+                "location": "666 Rue des Acacias, Apartment 1D, Hydra, Algiers",
+                "description": "Skilled tax lawyer offering services at 666 Rue des Acacias, Apartment 1D, Hydra, Algiers."
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Zitouni",
+                "email": "sofia.zitouni@example.com",
+                "password": "securefinances",
+                "phone_number": "0551234567",
+                "speciality": "Environmental Law",
+                "location": "777 Avenue des Pins, Office 3E, El Harrach, Algiers",
+                "description": "Passionate environmental attorney located at 777 Avenue des Pins, Office 3E, El Harrach, Algiers."
+            },
+            {
+                "first_name": "Khaled",
+                "last_name": "Mehdi",
+                "email": "khaled.mehdi@example.com",
+                "password": "ecofriendlylaw",
+                "phone_number": "0562345678",
+                "speciality": "Healthcare Law",
+                "location": "888 Rue des Chardons, Suite 5A, Kouba, Algiers",
+                "description": "Experienced healthcare lawyer serving at 888 Rue des Chardons, Suite 5A, Kouba, Algiers."
+            },
+            {
+                "first_name": "Lamia",
+                "last_name": "Bensaad",
+                "email": "lamia.bensaad@example.com",
+                "password": "healthypractice",
+                "phone_number": "0543210987",
+                "speciality": "Personal Injury Law",
+                "location": "999 Avenue des Tulipes, Apartment 4B, Birkhadem, Algiers",
+                "description": "Dedicated personal injury attorney situated at 999 Avenue des Tulipes, Apartment 4B, Birkhadem, Algiers."
+            },
+            {
+                "first_name": "Hassan",
+                "last_name": "Soltani",
+                "email": "hassan.soltani@example.com",
+                "password": "injuryjustice",
+                "phone_number": "0556789123",
+                "speciality": "Intellectual Property Law",
+                "location": "1010 Boulevard des Magnolias, Office 6C, Hydra, Algiers",
+                "description": "Skilled intellectual property lawyer located at 1010 Boulevard des Magnolias, Office 6C, Hydra, Algiers."
+            },
+            {
+                "first_name": "Yasmina",
+                "last_name": "Lakhdar",
+                "email": "yasmina.lakhdar@example.com",
+                "password": "artisticrights",
+                "phone_number": "0567891234",
+                "speciality": "Art Law",
+                "location": "1111 Rue des Lilas, Suite 7D, Cheraga, Algiers",
+                "description": "Passionate art lawyer offering services at 1111 Rue des Lilas, Suite 7D, Cheraga, Algiers."
+            },
+            {
+                "first_name": "Omar",
+                "last_name": "Tahar",
+                "email": "omar.tahar@example.com",
+                "password": "creativejustice",
+                "phone_number": "0545678912",
+                "speciality": "Entertainment Law",
+                "location": "1212 Boulevard des Roses, Apartment 2E, El Madania, Algiers",
+                "description": "Experienced entertainment attorney situated at 1212 Boulevard des Roses, Apartment 2E, El Madania, Algiers."
+            },
+            {
+                "first_name": "Fatiha",
+                "last_name": "Benali",
+                "email": "fatiha.benali@example.com",
+                "password": "entertainright",
+                "phone_number": "0551234567",
+                "speciality": "Sports Law",
+                "location": "1313 Rue des Orchidées, Office 4A, Hydra, Algiers",
+                "description": "Dedicated sports lawyer located at 1313 Rue des Orchidées, Office 4A, Hydra, Algiers."
+            },
+            {
+                "first_name": "Amine",
+                "last_name": "Zergui",
+                "email": "amine.zergui@example.com",
+                "password": "athleterights",
+                "phone_number": "0562345678",
+                "speciality": "Technology Law",
+                "location": "1414 Avenue des Mimosas, Suite 5B, Kouba, Algiers",
+                "description": "Skilled technology attorney serving at 1414 Avenue des Mimosas, Suite 5B, Kouba, Algiers."
+            },
+            {
+                "first_name": "Nawel",
+                "last_name": "Belmadi",
+                "email": "nawel.belmadi@example.com",
+                "password": "techlegalsupport",
+                "phone_number": "0543210987",
+                "speciality": "Privacy Law",
+                "location": "1515 Rue des Camélias, Apartment 6C, Birkhadem, Algiers",
+                "description": "Passionate privacy lawyer situated at 1515 Rue des Camélias, Apartment 6C, Birkhadem, Algiers."
+            },
+            {
+                "first_name": "Reda",
+                "last_name": "Boukerrou",
+                "email": "reda.boukerrou@example.com",
+                "password": "protectyourprivacy",
+                "phone_number": "0556789123",
+                "speciality": "Cybersecurity Law",
+                "location": "1616 Boulevard des Pivoines, Office 7D, Bab El Oued, Algiers",
+                "description": "Experienced cybersecurity attorney located at 1616 Boulevard des Pivoines, Office 7D, Bab El Oued, Algiers."
+            },
+            {
+                "first_name": "Mounir",
+                "last_name": "Goumiri",
+                "email": "mounir.goumiri@example.com",
+                "password": "cyberdefense",
+                "phone_number": "0567891234",
+                "speciality": "Immigration Law",
+                "location": "1717 Rue des Magnolias, Suite 8A, El Harrach, Algiers",
+                "description": "Dedicated immigration lawyer serving at 1717 Rue des Magnolias, Suite 8A, El Harrach, Algiers."
+            },
+            {
+                "first_name": "Salima",
+                "last_name": "Boudjemaa",
+                "email": "salima.boudjemaa@example.com",
+                "password": "secureborder",
+                "phone_number": "0545678912",
+                "speciality": "Human Rights Law",
+                "location": "1818 Avenue des Iris, Apartment 1B, Hydra, Algiers",
+                "description": "Skilled human rights attorney situated at 1818 Avenue des Iris, Apartment 1B, Hydra, Algiers."
+            },
+            {
+                "first_name": "Wassim",
+                "last_name": "Hamza",
+                "email": "wassim.hamza@example.com",
+                "password": "rightsadvocate",
+                "phone_number": "0551234567",
+                "speciality": "Civil Rights Law",
+                "location": "1919 Rue des Narcisses, Office 2C, Kouba, Algiers",
+                "description": "Passionate civil rights lawyer located at 1919 Rue des Narcisses, Office 2C, Kouba, Algiers."
+            },
+            {
+                "first_name": "Farida",
+                "last_name": "Bensalem",
+                "email": "farida.bensalem@example.com",
+                "password": "justiceforall",
+                "phone_number": "0562345678",
+                "speciality": "Elder Law",
+                "location": "2020 Boulevard des Freesias, Suite 3D, Cheraga, Algiers",
+                "description": "Experienced elder law attorney serving at 2020 Boulevard des Freesias, Suite 3D, Cheraga, Algiers."
+            },
+            {
+                "first_name": "Yacine",
+                "last_name": "Ait-Omar",
+                "email": "yacine.aitomar@example.com",
+                "password": "protecttheseniors",
+                "phone_number": "0543210987",
+                "speciality": "Consumer Law",
+                "location": "2121 Rue des Bleuets, Apartment 4A, El Madania, Algiers",
+                "description": "Dedicated consumer lawyer situated at 2121 Rue des Bleuets, Apartment 4A, El Madania, Algiers."
+            },
+            {
+                "first_name": "Imane",
+                "last_name": "Boukhelifa",
+                "email": "imane.boukhelifa@example.com",
+                "password": "consumerprotection",
+                "phone_number": "0556789123",
+                "speciality": "International Law",
+                "location": "2222 Avenue des Glaïeuls, Office 5B, Hydra, Algiers",
+                "description": "Skilled international attorney located at 2222 Avenue des Glaïeuls, Office 5B, Hydra, Algiers."
+            }
+        
+]

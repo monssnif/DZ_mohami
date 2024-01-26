@@ -1,0 +1,41 @@
+/* ProfilClient.css */
+
+.profil-client {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex; /* Ajout de flex pour aligner les éléments horizontalement */
+  justify-content: space-around; /* Espacez les éléments de manière égale */
+}
+
+.details {
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+.commentaire {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.note {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #007bff;
+}

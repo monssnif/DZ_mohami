@@ -1,0 +1,71 @@
+/* Header.css */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(23, 22, 22);
+  color: #fff;
+  padding: 10px;
+}
+
+/* Header.css */
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 1.5em; /* Ajustez la taille de l'icône selon vos besoins */
+  margin-right: 10px;
+  
+}
+
+.logo-text {
+  font-size: 1.2em; /* Ajustez la taille du texte du logo selon vos besoins */
+  font-weight: bold;
+  color: #a68e06; /* Ajustez la couleur du texte selon vos besoins */
+}
+
+/* ... (rest of the styles) */
+
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  margin-left: 850px;
+}
+
+nav ul li {
+  margin-right: 0px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s ease; /* Ajout d'une transition pour une animation fluide */
+}
+
+nav ul li a:hover {
+  color: #a68e06; /* Couleur différente au survol */
+}
+/* Header.css */
+
+/* ... (styles existants) */
+
+.connexionButton {
+  background-color: #a68e06;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Ajout d'une transition pour une animation fluide */
+}
+
+.connexionButton:hover {
+  background-color: black; /* Couleur différente au survol */
+}

@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(23, 22, 22);
+  color: #fff;
+  padding: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+.logo-text {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #a68e06;
+}
+
+.connexionButton {
+  position: Absolute; top: 5px; right :10px ;
+  background-color: #a68e06;
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.connexionButton:hover {
+  background-color: black;
+}

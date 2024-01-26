@@ -1,0 +1,260 @@
+/* HomePage.css */
+/* ... (styles existants) */
+/* Recherche.css */
+/* Recherche.css */
+.recherche-page {
+  max-width: 600px;
+  margin: -40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.search-filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+}
+
+/* Recherche.css */
+/* (styles existants) */
+
+.search-filters {
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: auto; /* Ajout de cette ligne pour centrer le bouton horizontalement */
+}
+
+button:hover {
+  background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero {
+    position: relative;
+    height: 670px; /* Ajustez la hauteur selon vos besoins */
+    background-image: url('img.jpg'); /* Remplacez par le chemin de votre image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Couleur du texte sur l'image, ajustez selon le contraste de votre image */
+    text-align: center;
+  }
+  /* Ajoutez ces styles dans votre fichier CSS */
+
+.hero p {
+  font-size: 25px;
+  line-height: 1.5;
+  color: #fff;
+  max-width: 600px; /* Ajustez la largeur maximale selon vos besoins */
+  margin: 20px auto;
+  font-weight: bold; /* Pour du texte en gras */
+  font-style: italic;
+}
+
+  .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    color: #000;
+  }
+  
+  .search-bar {
+    margin-top: 20px; /* Ajustez selon la position désirée */
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .search-bar button {
+    padding: 10px;
+    background-color: #a48e13;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+/* HomePage.css */
+/* ... (styles existants) */
+/* Ajoutez ces styles dans votre fichier CSS */
+/* AboutUsSection.css */
+
+/* Ajoutez ces styles dans votre fichier CSS */
+
+.about-us-section {
+  /* Couleur de fond pour la section, ajustez selon vos préférences */
+  padding: 30px 20px; /* Ajustez la marge intérieure pour plus ou moins d'espace autour du contenu */
+  text-align: center;
+  background-color: #f8f8f8;
+}
+
+
+
+.about-us-section h2 {
+  font-size: 36px;
+  color: #a68e06; 
+  text-align: center;
+  margin-top: 30px;/* Couleur du texte pour le titre, ajustez selon vos préférences */
+}
+
+.about-us-content p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #555; /* Couleur du texte pour les paragraphes, ajustez selon vos préférences */
+  margin-bottom: 20px; 
+  font-weight: bold; /* Pour du texte en gras */
+  font-style: italic;
+ 
+}
+
+
+.about-us-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.about-us-image img {
+ /* Assurez-vous que l'image prend toute la largeur disponible */
+  height: auto; /* Ajuste la hauteur proportionnellement à la largeur */
+  width:200px;
+  margin: 50px;
+  margin-top: 52px;
+}
+
+.about-us-text {
+  flex: 1;
+  padding-left: 20px; /* Ajustez selon l'espace souhaité entre l'image et le texte */
+}
+  
+ 
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer p {
+    margin-bottom: 10px;
+  }
+  
+  /* ... (styles existants) */
+ 
+  
+  /* Ajoutez ce code dans votre fichier CSS (par exemple, HomePage.css) */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .social-icons {
+    margin-bottom: 20px;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .footer p {
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  

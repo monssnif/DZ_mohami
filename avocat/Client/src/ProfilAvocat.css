@@ -1,0 +1,146 @@
+/* App.css */
+
+.profil-avocat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.details img {
+  max-width: 70%; /* Adjusting the max width to 100% */
+  height: auto;
+  border-radius: 10%;
+  margin-bottom: 10px;
+}
+
+/* Add the following styles for reservation button */
+.reservation button {
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 20px;
+  margin-top: 20px; /* Adjusted margin-top */
+}
+
+.reservation button:hover {
+  background-color: black;
+}
+
+.experiences {
+  margin-top: 20px;
+}
+
+.adresse {
+  margin-bottom: 20px;
+}
+
+.commentaires {
+  width: 80%;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: left;
+  margin-top: 20px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.commentaires textarea {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.contact {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.contact button {
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.contact button:hover {
+  background-color: black;
+}
+
+h3 {
+  color: #a68e06;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #a68e06;
+  margin-bottom: 20px;
+}
+
+.commentaires button {
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px; /* Adjusted margin-top */
+}
+
+.commentaires button:hover {
+  background-color: black;
+}
+
+.details P {
+  color: black;
+}
+
+.adresse P {
+  color: black;
+}
+
+/* Add the following styles for rendez-vous button */
+.rendez-vous button {
+  background-color: #a68e06;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.rendez-vous button:hover {
+  background-color: black;}
+
+  .wide-text-area {
+    width: 100%; /* Make the text areas 100% wide */
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+  }

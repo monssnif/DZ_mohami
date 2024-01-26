@@ -1,0 +1,61 @@
+.liste-avocats {
+    text-align: center;
+  }
+  .avocat-card p{
+    color: black;
+    margin-bottom:20px;
+    line-height: 1.5;
+  }
+
+  .avocat-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .avocat-card {
+    width: 250px;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  
+    &:hover {
+      transform: scale(1.05);
+    }
+  
+    img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+  
+   
+  
+    .rating {
+      font-weight: bold;
+      color: #ff9800; /* couleur orange ou une autre couleur de votre choix */
+      margin-bottom: 10px;
+    }
+  
+    button {
+      background-color: #a68e06; /* couleur verte ou une autre couleur de votre choix */
+      color: #fff;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  
+      &:hover {
+        background-color: black;
+      }
+  
+      &:not(:last-child) {
+        margin-right: 5px;
+      }
+    }
+  }
+  
